@@ -4,7 +4,7 @@
 
 # **Description**
 
-The Weather Forecast App is a web application that allows users to view current weather information and a five-day forecast for a specific location. It provides users with temperature, weather conditions, and other relevant details.
+This Weather Forecast App is a web application that allows users to view current weather information and a five-day forecast for a specific location. It provides users with temperature, weather conditions, and other relevant details.
 
 # Features
 - View current weather information for a specific location.
@@ -35,5 +35,5 @@ To install and run the application locally, follow these steps:
 Weather data provided by OpenWeatherMap API.
 
 # Deployment link
-- 
+- https://weather-dashboard-sand.vercel.app/
 
