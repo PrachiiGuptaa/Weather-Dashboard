@@ -1,7 +1,6 @@
 # Weather-Dashboard
 
-![App Screenshot](![WeatherDashboard](https://github.com/PrachiiGuptaa/Weather-Dashboard/assets/119650267/7f029d45-782b-4611-9608-6877e334ce12)
-)
+![App Screenshot](https://github.com/PrachiiGuptaa/Weather-Dashboard/assets/119650267/7f029d45-782b-4611-9608-6877e334ce12)
 
 # **Description**
 
