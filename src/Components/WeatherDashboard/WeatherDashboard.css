@@ -1,0 +1,90 @@
+.weather-dashboard {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 100vh;
+  background-color: rgb(211, 208, 208);
+  }
+  
+.left-section {
+  flex: 2; 
+  max-width: 34%;
+  border: 2px solid rgb(31, 3, 68);
+  border-radius: 20px 0 0 20px;
+  height: 80.8vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  margin: 30px 0 0 30px;
+  background-image: url('https://t4.ftcdn.net/jpg/03/97/07/27/360_F_397072723_78WD3dv1yVqflBOSoIycAyShIJ0DPJQN.jpg');
+  background-size: cover;
+  color: white;
+  font-family: cursive;
+}
+
+.middle-section {
+  height: 90vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(235, 235, 235);
+  margin-top: 30px;
+  border: 2px solid rgb(31, 3, 68);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.right-section {
+  flex: 3; 
+  max-width: 60%;
+  height: 90vh;
+  border-radius: 0 20px 20px 0;
+  border: 2px solid rgb(31, 3, 68);
+  margin: 30px 30px 0 0;
+  background-image: url('https://t4.ftcdn.net/jpg/03/97/07/27/360_F_397072723_78WD3dv1yVqflBOSoIycAyShIJ0DPJQN.jpg');
+  background-size: cover;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+  
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; 
+  margin-bottom: 20px; 
+}
+
+.card {
+  background-color: #f5f5f5;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+  flex-direction: row;
+  width: 150px;
+  font-family: cursive;
+}
+  
+.chart {
+  margin-top: 20px;
+}
+  
+.location p{
+  font-size: 16px;
+}
+
+.date{
+  font-size: 16px;
+}
+
+.temperature{
+  font-size: 39px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.weather-description{
+  margin-top: -40px;
+  font-weight: 400;
+}
